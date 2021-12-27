@@ -1,0 +1,14 @@
+Name: Khuong tran
+Lab Name: cv-webpage-khuongtran19
+Date Assigned: 09/08/21
+Date Completed: 09/19/21
+Status: Completed
+
+Outstanding Issues:
+The HTML could be a bit better
+
+Major Impediments:
+N/A
+
+Feedback Comments:
+N/A
